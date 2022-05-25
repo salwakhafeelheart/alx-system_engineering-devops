@@ -1,3 +1,2 @@
-echo'#!/bin/bash'> 1-listit
-echo'ls'>> 1-listit
-chmod 755 1-listit
+#!/bin/bash
+ls
