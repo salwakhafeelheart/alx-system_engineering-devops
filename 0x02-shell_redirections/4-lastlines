@@ -1,1 +1,2 @@
-cat: 4-: No such file or directory
+#!/bin/bash
+tall -n 10 /etc/passwd
